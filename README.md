@@ -31,3 +31,9 @@ rotina de 8h e 5min + 1h de almoço
 - 1h 50 min de soft work
 
 - 1h de almoço.
+
+# Será interessante se conseguir:
+
+de início NÃO definir n de pomodoros para tarefa, 
+criar log dos pomodoros relalizados para conseguir depois 
+atribuir pomodoros para realizar uma tarefa.
